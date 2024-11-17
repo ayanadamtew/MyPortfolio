@@ -20,7 +20,7 @@ A modern, responsive portfolio website built with HTML and CSS, featuring sectio
 
 ## Setup
 
-Clone the repository or download the ZIP file:
+- Clone the repository or download the ZIP file:
    ```bash
    git clone https://github.com/yourusername/portfolio.git
 
