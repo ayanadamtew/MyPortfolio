@@ -26,6 +26,6 @@ A modern, responsive portfolio website built with HTML and CSS, featuring sectio
 
 ## Contact
 
-Your Name - [ayanadamtew@gmail.com](mailto:ayanadamtew@gmail.com)
+ Email - [ayanadamtew@gmail.com](mailto:ayanadamtew@gmail.com)
 
-Project Link: [https://github.com/ayanadamtew/portfolio](https://github.com/ayanadamtew/portfolio)
+ Project Link: [https://github.com/ayanadamtew/portfolio](https://github.com/ayanadamtew/portfolio)
